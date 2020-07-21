@@ -1,4 +1,4 @@
-from f_Kokel import *
+from functions import *
 
 def main():
     # location of input raster data:
