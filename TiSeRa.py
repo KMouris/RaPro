@@ -34,8 +34,6 @@ def main():
     #SAVE RESULTING FILES:
     np.savetxt('Prec_Kokel' ,result_list,fmt='%1.4f', header = 'Year,Month,Day,Hour,Mean Precipitation [mm]', delimiter = ',')
 
-   #SaveFiles2(tdm, savepath)
-
 
 
 if __name__ == '__main__':
